@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590944785539",
+    "project_id": "baidoauth",
+    "storage_bucket": "baidoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590944785539:android:4ed0a9394c788409ce37b6",
+        "android_client_info": {
+          "package_name": "com.example.baidoauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590944785539-21vnmvdom0mmsdteoveap4qr4sfimncr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VesCyAp9yIWYbtet0PY8qF7A04AUqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590944785539-21vnmvdom0mmsdteoveap4qr4sfimncr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
